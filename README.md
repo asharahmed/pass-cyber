@@ -1,3 +1,7 @@
+# 🕵️ Cyber Security Act App
+
+This web app displays the status of Bill C-26 along with information about various Five Eyes agencies, and the Five Eyes alliance itself.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
