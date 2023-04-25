@@ -2,6 +2,10 @@
 
 ![](https://github.com/asharahmed/pass-cyber/raw/main/public/screenshot.png)
 
+Or, in dark mode:
+
+![](https://github.com/asharahmed/pass-cyber/raw/main/public/dark.png)
+
 This web app displays the status of Bill C-26 along with information about various Five Eyes agencies, and the Five Eyes alliance itself.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
