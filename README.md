@@ -1,6 +1,6 @@
 # 🕵️ Cyber Security Act App
 
-![](https://c26cyber.netlify.app/screenshot.png)
+![](https://github.com/asharahmed/pass-cyber/raw/main/public/screenshot.png)
 
 This web app displays the status of Bill C-26 along with information about various Five Eyes agencies, and the Five Eyes alliance itself.
 
