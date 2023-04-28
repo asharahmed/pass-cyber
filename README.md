@@ -1,4 +1,4 @@
-# 🕵️ Cyber Security Act _Bill (C-26)_ App
+# 🕵️ Cyber Security Act, _Bill (C-26)_ App
 
 ![](https://github.com/asharahmed/pass-cyber/raw/main/public/screenshot.png)
 
