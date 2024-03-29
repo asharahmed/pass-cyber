@@ -29,7 +29,6 @@ function Footer() {
     <footer className={styles.footer}>
       <div className={styles.container}>
         <div className={styles.footerlinks}>
-          <a href="#">Made in Canada by Ashar Ahmed.</a>
         </div>
       </div>
     </footer>
